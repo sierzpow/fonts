@@ -1,0 +1,35 @@
+@font-face {
+	font-family: 'KozGoPr6N-Regular';
+	src: url('https://cdn.jsdelivr.net/gh/sierzpow/fonts/fonts/KozGoPr6N-Regular.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FrutigerLT-Light';
+	src: url('https://cdn.jsdelivr.net/gh/sierzpow/fonts/fonts/FrutigerLT-Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Frutiger LT 45 Light'; 
+	src: url('https://cdn.jsdelivr.net/gh/sierzpow/fonts/fonts/FrutigerLT45Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'FrutigerLT-Roman';
+	src: url('https://cdn.jsdelivr.net/gh/sierzpow/fonts/fonts/FrutigerLT-Roman.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Frutiger LT light';
+	src: url('https://cdn.jsdelivr.net/gh/sierzpow/fonts/fonts/FrutigerLT-Light.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
