@@ -33,3 +33,37 @@
 	font-style: normal;
 }
 
+@font-face {
+	font-family: 'Conv_FRABK';
+	src: url('fonts/FRABK.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_FRABKIT';
+	src: url('fonts/FRABKIT.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Conv_FRABKIT';
+	src: url('fonts/FRABKIT.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Franklin Gothic Demi Cond';
+	src: url('fonts/FRADMCN.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
+
+@font-face {
+	font-family: 'Franklin Gothic Demi';
+	src: url('fonts/FRADM.woff') format('woff');
+	font-weight: normal;
+	font-style: normal;
+}
